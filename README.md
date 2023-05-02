@@ -1,5 +1,8 @@
 # 💫 About Me:
 💡 I am a passionate Back-end Developer who enjoys spending countless hours coding.<br><br>👨🏻‍💻 I love learning new technologies and dealing with new challenges .
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
+</div>
 
 
 ## 🌐 Socials:
