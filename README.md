@@ -15,11 +15,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=arshiapiri&icon=9&color=12)](https://visitcount.itsvg.in)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
----
-[![](https://visitcount.itsvg.in/api?id=arshiapiri&icon=9&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arshiapiri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
